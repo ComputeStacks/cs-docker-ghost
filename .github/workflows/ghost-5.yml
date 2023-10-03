@@ -15,7 +15,7 @@ on:
 
 env:
   # The default repo env will be 'ComputeStacks'; uppercase is not allowed.
-  GH_REPO: computestacks/ghost-blog
+  GH_REPO: computestacks/cs-docker-ghost
 
 jobs:
   build:
