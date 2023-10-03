@@ -1,0 +1,1 @@
+# Ghost Images for ComputeStacks
